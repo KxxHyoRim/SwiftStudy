@@ -119,3 +119,9 @@ x < 10
 25. `/` Slash : 경로 지정
 26. `?` Question Mark : Optional
 
+### 5. First Class Citizen
+
+- can be stored in variables and data structures
+- can be passed as a parameter to a function
+- can be returned as the result of a function
+
